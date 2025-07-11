@@ -13,7 +13,7 @@
 
 ---
 
-# DevOps Directive Docker Course
+# DevOps Directive Docker Course - adapted by Brave
 
 This is the companion repo to: [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://youtu.be/RqTEHSBrYFw)
 
