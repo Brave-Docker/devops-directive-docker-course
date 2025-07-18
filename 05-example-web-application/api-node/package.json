@@ -1,7 +1,7 @@
 {
   "name": "api-node",
   "version": "1.0.0",
-  "description": "simple api that connects to postgres",
+  "description": "Api that connects to postgres",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
@@ -18,6 +18,6 @@
   },
   "devDependencies": {
     "jest": "^29.4.1",
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.1.10"
   }
 }
